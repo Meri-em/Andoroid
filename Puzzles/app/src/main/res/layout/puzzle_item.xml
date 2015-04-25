@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView 
+        android:id="@+id/puzzle_img"
+        android:layout_width="@dimen/img_width"
+        android:layout_height="@dimen/img_height"
+        android:contentDescription="@string/img"
+        android:paddingLeft="@dimen/img_left_right_padding"
+        android:paddingRight="@dimen/img_left_right_padding"
+        />
+    
+    <TextView 
+        android:id="@+id/puzzle_name"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/img_height"
+        android:layout_toRightOf="@id/puzzle_img"
+        android:gravity="center_vertical"       
+       />
+
+</RelativeLayout>
+

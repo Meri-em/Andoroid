@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Puzzles</string>
+    <string name="action_settings">Settings</string>
+    <string name="duckpuzzle">Mandarin Duck Puzzle</string>
+    <string name="eightpuzzle">8 Puzzle</string>
+    <string name="duckpuzzle_activity">DuckPuzzleActivity</string>
+    <string name="eightpuzzle_activity">EightPuzzleActivity</string>
+    <string name="img">image</string>
+
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <item name="gridlayout_duckpuzzle" type="id"></item>
+    <item name="gridlayout_eightpuzzle" type="id"></item>
+</resources>
